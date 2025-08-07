@@ -36,6 +36,17 @@ After training and evaluating the CNN model on the face mask dataset:
 
 ---
 
+## Model Gradio view
+ 
+
+
+
+
+
+
+![Face Mask Detection ] (demo.gif)
+
+---
 ## 🧪 Requirements
 
 To run this project, install the required libraries:
@@ -46,14 +57,3 @@ pip install kagglehub
 
 
 
-
-
-# Model Gradio view
- 
-
-
-
-
-
-
-![Face Mask Detection ] (2025-08-04 19-45-54.gif)
