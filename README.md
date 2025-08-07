@@ -44,7 +44,7 @@ After training and evaluating the CNN model on the face mask dataset:
 
 
 
-![Face Mask Detection ] (demo.gif)
+![Face Mask Detection](demo.gif)
 
 ---
 ## 🧪 Requirements
