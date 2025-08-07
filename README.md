@@ -39,12 +39,12 @@ After training and evaluating the CNN model on the face mask dataset:
 ## Model Gradio view
  
 
+![Image](https://github.com/user-attachments/assets/45bf848a-3664-4aec-b559-707aa58ffb58)
 
 
 
 
-
-![Face Mask Detection](assets/demo.gif)
+![Image](https://github.com/user-attachments/assets/dbce016c-afaa-4395-b975-c411d20bd5ec)
 
 ---
 ## 🧪 Requirements
